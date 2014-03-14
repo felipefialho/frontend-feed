@@ -24,7 +24,7 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 
-## Front-End (EN)
+## Front-End (EN) 
 
 * [A List Apart](http://alistapart.com/)
 * [Codrops](http://tympanus.net/codrops)
