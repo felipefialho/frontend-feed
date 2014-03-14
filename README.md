@@ -10,7 +10,7 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 * [Daniel Filho](http://damniel.com/)
 * [Eduardo Matos](http://eduardomatos.me/)
 * [Eric Douglas](http://ericdouglas.github.io/)
-* [Felipe Fialho](http://www.felipefialho.com/) - Meu blog
+* [Felipe Fialho](http://www.felipefialho.com/) 
 * [Front End Brasil](http://www.frontendbrasil.com.br/)
 * [Gabriel Carvalho](http://www.carvalhoweb.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
