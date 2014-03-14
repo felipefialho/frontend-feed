@@ -3,8 +3,6 @@ Front-End Feed List
 
 Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando periodicamente. 
 
-Agradeço recomendações de outros sites.
-
 ## Front-End (BR)
 
 * [Loop Infinito](http://loopinfinito.com.br/)
@@ -23,4 +21,19 @@ Agradeço recomendações de outros sites.
 * [Eric Douglas](http://ericdouglas.github.io/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [William Bruno](http://wbruno.com.br/)
-* [Felipe Fialho](http://www.felipefialho.com/) - Meu site
+* [Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/) - Meu blog
+
+## Front-End (EN)
+
+* [A List Apart](http://alistapart.com/)
+* [CSS-Tricks](http://css-tricks.com/)
+* [Smashing Magazine](http://www.smashingmagazine.com/)
+* [DailyJS](http://dailyjs.com/)
+* [Codrops](http://tympanus.net/codrops)
+* [Lessmilk](http://blog.lessmilk.com/)
+* [Paul Irish](http://paulirish.com/)
+
+## UX (BR)
+
+* [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
+* [UX.BLOG](http://www.uxdesign.blog.br/)
