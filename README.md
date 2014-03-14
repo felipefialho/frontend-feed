@@ -33,7 +33,6 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 * [Codrops](http://tympanus.net/codrops)
 * [Lessmilk](http://blog.lessmilk.com/)
 * [Paul Irish](http://paulirish.com/)
-* [Awwwards](http://www.awwwards.com/)
 * [CSS Wizardry](http://csswizardry.com/)
 * [DevDocs](http://devdocs.io/)
 
