@@ -10,6 +10,7 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 * [Front End Brasil](http://www.frontendbrasil.com.br/)
 * [Nomadev](http://nomadev.com.br/)
 * [Zeno Rocha](http://zenorocha.com/blog)
+* [Daniel Filho](http://damniel.com/)
 * [SergioLopes.org](http://sergiolopes.org/)  
 * [Vitor Britto](http://www.vitorbritto.com.br/blog)
 * [Tableless](http://tableless.com.br/)
@@ -32,6 +33,8 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 * [Codrops](http://tympanus.net/codrops)
 * [Lessmilk](http://blog.lessmilk.com/)
 * [Paul Irish](http://paulirish.com/)
+* [CSS Wizardry](http://csswizardry.com/)
+* [DevDocs](http://devdocs.io/)
 
 ## UX (BR)
 
