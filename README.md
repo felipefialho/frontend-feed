@@ -37,3 +37,7 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
+
+## License
+ 
+[MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
