@@ -1,7 +1,9 @@
 Front-End Feed List
 =========
 
-Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando periodicamente. 
+Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End. 
+
+Contribuições são bem vindas.
 
 ## Front-End (BR)
 
