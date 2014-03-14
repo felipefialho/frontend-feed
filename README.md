@@ -21,7 +21,7 @@ Abaixo uma lista de blogs e sites que acompanho mais de perto. Vou atualizando p
 * [Eric Douglas](http://ericdouglas.github.io/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [William Bruno](http://wbruno.com.br/)
-* [Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/) - Meu blog
+* [Felipe Fialho](http://www.felipefialho.com/) - Meu blog
 
 ## Front-End (EN)
 
