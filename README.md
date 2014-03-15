@@ -1,4 +1,4 @@
-Front-End Feed List
+Front-End Feed List (pt-BR)
 =========
 
 Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End. 
