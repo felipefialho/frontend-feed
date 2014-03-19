@@ -21,6 +21,7 @@ Contribuições são bem vindas.
 * [Nomadev](http://nomadev.com.br/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [SergioLopes.org](http://sergiolopes.org/)
+* [Simplesideias](http://simplesideias.com.br/)
 * [Tableless](http://tableless.com.br/)
 * [Vitor Britto](http://www.vitorbritto.com.br/blog)
 * [William Bruno](http://wbruno.com.br/)
