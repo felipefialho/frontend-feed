@@ -16,6 +16,7 @@ Contribuições são bem vindas.
 * [Felipe Fialho](http://www.felipefialho.com/) 
 * [Front End Brasil](http://www.frontendbrasil.com.br/)
 * [Gabriel Carvalho](http://www.carvalhoweb.com/)
+* [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Nomadev](http://nomadev.com.br/)
