@@ -40,6 +40,7 @@ Contribuições são bem vindas.
 * [Lessmilk](http://blog.lessmilk.com/)
 * [Paul Irish](http://paulirish.com/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
+* [CSS Wizardry](http://csswizardry.com/)
 
 ## UX (BR)
 
