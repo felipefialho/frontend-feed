@@ -41,6 +41,7 @@ Contribuições são bem vindas.
 * [Paul Irish](http://paulirish.com/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [CSS Wizardry](http://csswizardry.com/)
+* [Flippin Awesome!](http://flippinawesome.org/category/web/)
 
 ## UX (BR)
 
