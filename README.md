@@ -19,6 +19,7 @@ Contribuições são bem vindas.
 * [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
+* [Miler Medeiros](http://blog.millermedeiros.com/)
 * [Nomadev](http://nomadev.com.br/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [SergioLopes.org](http://sergiolopes.org/)
