@@ -11,6 +11,7 @@ Contribuições são bem vindas.
 * [Cabaré](http://caba.re/)
 * [Da2k Blog](http://blog.da2k.com.br/)
 * [Daniel Filho](http://damniel.com/)
+* [Diogo Moretti](http://diogo.nu/)
 * [Eduardo Matos](http://eduardomatos.me/)
 * [Eric Douglas](http://ericdouglas.github.io/)
 * [Felipe Fialho](http://www.felipefialho.com/) 
