@@ -39,6 +39,7 @@ Contribuições são bem vindas.
 * [CSS Wizardry](http://csswizardry.com/)
 * [CSS-Tricks](http://css-tricks.com/)
 * [DailyJS](http://dailyjs.com/)
+* [David Walsh](http://davidwalsh.name/)
 * [DevDocs](http://devdocs.io/)
 * [Lessmilk](http://blog.lessmilk.com/)
 * [Paul Irish](http://paulirish.com/)
