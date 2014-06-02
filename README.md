@@ -35,6 +35,7 @@ Contribuições são bem vindas.
 ## Front-End (EN) 
 
 * [A List Apart](http://alistapart.com/)
+* [Brad Frost Web](http://bradfrostweb.com/)
 * [Codrops](http://tympanus.net/codrops)
 * [CSS Wizardry](http://csswizardry.com/)
 * [CSS-Tricks](http://css-tricks.com/)
