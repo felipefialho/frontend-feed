@@ -27,6 +27,7 @@ Contribuições são bem vindas.
 * [SergioLopes.org](http://sergiolopes.org/)
 * [Simples Ideias](http://simplesideias.com.br/)
 * [Tableless](http://tableless.com.br/)
+* [Vinícius Andrade](http://vicnicius.github.io/)
 * [Vitor Britto](http://www.vitorbritto.com.br/blog)
 * [William Bruno](http://wbruno.com.br/)
 * [Zeno Rocha](http://zenorocha.com/blog)
