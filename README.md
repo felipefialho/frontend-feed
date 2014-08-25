@@ -7,8 +7,8 @@ Contribuições são bem vindas.
 
 ## Front-End (BR)
 
+* [Alan Hoffmeister](http://alanhoff.com/)
 * [Bernard De Luna](http://bernarddeluna.com/)
-* [Cabaré](http://caba.re/)
 * [Da2k Blog](http://blog.da2k.com.br/)
 * [Daniel Filho](http://damniel.com/)
 * [Diogo Moretti](http://diogo.nu/)
