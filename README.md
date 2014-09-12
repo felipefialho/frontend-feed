@@ -18,6 +18,7 @@ Contribuições são bem vindas.
 * [Felipe Fialho](http://www.felipefialho.com/) 
 * [Front End Brasil](http://www.frontendbrasil.com.br/)
 * [Gabriel Carvalho](http://www.carvalhoweb.com/)
+* [Jaydson](http://jaydson.org/)
 * [Jean Carlo Emer](http://jcemer.com/)
 * [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
