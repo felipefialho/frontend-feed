@@ -35,6 +35,7 @@ Contribuições são bem vindas.
 * [William Bruno](http://wbruno.com.br/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
+* [Maujor](http://www.maujor.com/)
 
 ## Front-End (EN) 
 
@@ -56,6 +57,7 @@ Contribuições são bem vindas.
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
+* [UsabiliDoido](http://usabilidoido.com.br/)
 
 ## License
  
