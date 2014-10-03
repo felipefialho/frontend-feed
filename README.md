@@ -36,6 +36,7 @@ Contribuições são bem vindas.
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Maujor](http://www.maujor.com/)
+* [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
 ## Front-End (EN) 
 
@@ -58,6 +59,7 @@ Contribuições são bem vindas.
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
 * [UsabiliDoido](http://usabilidoido.com.br/)
+* [Marciokl Blog](http://marciokl.com/blog/)
 
 ## License
  
