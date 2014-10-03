@@ -37,6 +37,7 @@ Contribuições são bem vindas.
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Maujor](http://www.maujor.com/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
+* [Reinaldo Ferraz](http://blog.w3c.br/author/reinaldo/)
 
 ## Front-End (EN) 
 
