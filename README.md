@@ -36,7 +36,6 @@ Contribuições são bem vindas.
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Maujor](http://www.maujor.com/)
-* [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
 ## Front-End (EN) 
 
