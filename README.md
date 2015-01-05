@@ -33,9 +33,11 @@ Contribuições são bem vindas.
 * [Vinícius Andrade](http://vicnicius.github.io/)
 * [Vitor Britto](http://www.vitorbritto.com.br/blog)
 * [William Bruno](http://wbruno.com.br/)
+* [Willian Justen](http://willianjusten.com.br/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Maujor](http://www.maujor.com/)
+
 
 ## Front-End (EN) 
 
