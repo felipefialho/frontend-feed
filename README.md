@@ -23,6 +23,7 @@ Contribuições são bem vindas.
 * [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
+* [Maujor](http://www.maujor.com/)
 * [Miler Medeiros](http://blog.millermedeiros.com/)
 * [Nomadev](http://nomadev.com.br/)
 * [Pedro Nauck](http://pedronauck.com/)
@@ -35,7 +36,7 @@ Contribuições são bem vindas.
 * [William Bruno](http://wbruno.com.br/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
-* [Maujor](http://www.maujor.com/)
+* [Willian Justen](http://willianjusten.com.br/)
 
 ## Front-End (EN) 
 
