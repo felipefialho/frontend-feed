@@ -37,6 +37,7 @@ Contribuições são bem vindas.
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Willian Justen](http://willianjusten.com.br/)
+* [Wilson Mendes](http://willmendesneto.github.io/)
 
 ## Front-End (EN) 
 
