@@ -9,6 +9,7 @@ Contribuições são bem vindas.
 
 * [Bernard De Luna](http://bernarddeluna.com/)
 * [Cabaré](http://caba.re/)
+* [CodeTalks](http://www.codetalks.net/)
 * [Da2k Blog](http://blog.da2k.com.br/)
 * [Daniel Filho](http://damniel.com/)
 * [Eduardo Matos](http://eduardomatos.me/)
@@ -28,6 +29,7 @@ Contribuições são bem vindas.
 * [William Bruno](http://wbruno.com.br/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
+
 
 ## Front-End (EN) 
 
