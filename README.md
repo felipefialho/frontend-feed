@@ -39,6 +39,7 @@ Contribuições são bem vindas.
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Willian Justen](http://willianjusten.com.br/)
 * [Wilson Mendes](http://willmendesneto.github.io/)
+* [SENAI CIMATEC - BA](http://softwaresenai.github.io/)
 
 ## Front-End (EN) 
 
