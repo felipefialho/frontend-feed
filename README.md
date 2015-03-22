@@ -1,7 +1,7 @@
 Front-End Feed List (pt-BR)
 =========
 
-Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End. 
+Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End.
 
 Contribuições são bem vindas.
 
@@ -15,12 +15,13 @@ Contribuições são bem vindas.
 * [Diogo Moretti](http://diogo.nu/)
 * [Eduardo Matos](http://eduardomatos.me/)
 * [Eric Douglas](http://ericdouglas.github.io/)
-* [Felipe Fialho](http://www.felipefialho.com/) 
+* [Felipe Fialho](http://www.felipefialho.com/)
 * [Front End Brasil](http://www.frontendbrasil.com.br/)
 * [Gabriel Carvalho](http://www.carvalhoweb.com/)
 * [Hugo Bessa](http://www.hugobessa.com.br)
 * [Jaydson](http://jaydson.org/)
 * [Jean Carlo Emer](http://jcemer.com/)
+* [Ju Gonçalves](http://jugoncalv.es/blog/)
 * [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
@@ -40,8 +41,9 @@ Contribuições são bem vindas.
 * [Willian Justen](http://willianjusten.com.br/)
 * [Wilson Mendes](http://willmendesneto.github.io/)
 
-## Front-End (EN) 
+## Front-End (EN)
 
+* [Addy Osmani](http://addyosmani.com/blog/)
 * [A List Apart](http://alistapart.com/)
 * [Brad Frost Web](http://bradfrostweb.com/)
 * [Codrops](http://tympanus.net/codrops)
@@ -50,9 +52,12 @@ Contribuições são bem vindas.
 * [DailyJS](http://dailyjs.com/)
 * [David Walsh](http://davidwalsh.name/)
 * [DevDocs](http://devdocs.io/)
+* [Hackr.io](http://hackr.io/)
+* [HTML5 Rocks](http://www.html5rocks.com/)
 * [Lessmilk](http://blog.lessmilk.com/)
 * [Paul Irish](http://paulirish.com/)
 * [Mark Otto](http://markdotto.com/)
+* [Site Point](http://www.sitepoint.com/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [CSS Wizardry](http://csswizardry.com/)
 * [Flippin Awesome!](http://flippinawesome.org/category/web/)
@@ -65,5 +70,5 @@ Contribuições são bem vindas.
 * [Marciokl Blog](http://marciokl.com/blog/)
 
 ## License
- 
+
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
