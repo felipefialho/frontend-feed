@@ -70,6 +70,11 @@ Contribuições são bem vindas.
 * [UsabiliDoido](http://usabilidoido.com.br/)
 * [Marciokl Blog](http://marciokl.com/blog/)
 
+## Inspiração
+
+* [http://www.awwwards.com/] Awwwards
+* [http://line25.com/] Line25
+
 ## License
 
 [MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
