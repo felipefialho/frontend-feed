@@ -72,7 +72,7 @@ Contribuições são bem vindas.
 
 ## Inspiração
 
-* [http://www.awwwards.com/] Awwwards
+* [http://www.awwwards.com/] Awwwards 
 * [http://line25.com/] Line25
 
 ## License
