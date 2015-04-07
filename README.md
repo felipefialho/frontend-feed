@@ -41,6 +41,7 @@ Contribuições são bem vindas.
 * [Willian Justen](http://willianjusten.com.br/)
 * [Wilson Mendes](http://willmendesneto.github.io/)
 * [SENAI CIMATEC - BA](http://softwaresenai.github.io/)
+* [W3C - Brasil](http://blog.w3c.br/)
 
 ## Front-End (EN)
 
