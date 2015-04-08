@@ -42,6 +42,7 @@ Contribuições são bem vindas.
 * [Wilson Mendes](http://willmendesneto.github.io/)
 * [SENAI CIMATEC - BA](http://softwaresenai.github.io/)
 * [W3C - Brasil](http://blog.w3c.br/)
+* [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
 ## Front-End (EN)
 
