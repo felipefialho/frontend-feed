@@ -27,7 +27,6 @@ Contribuições são bem vindas.
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Maujor](http://www.maujor.com/)
 * [Miler Medeiros](http://blog.millermedeiros.com/)
-* [Nomadev](http://nomadev.com.br/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
 * [SergioLopes.org](http://sergiolopes.org/)
@@ -41,6 +40,7 @@ Contribuições são bem vindas.
 * [Willian Justen](http://willianjusten.com.br/)
 * [Wilson Mendes](http://willmendesneto.github.io/)
 * [SENAI CIMATEC - BA](http://softwaresenai.github.io/)
+* [Suissa - Nomadev](http://nomadev.com.br/)
 * [W3C - Brasil](http://blog.w3c.br/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
