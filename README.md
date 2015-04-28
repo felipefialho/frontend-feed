@@ -64,6 +64,7 @@ Contribuições são bem vindas.
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [CSS Wizardry](http://csswizardry.com/)
 * [Flippin Awesome!](http://flippinawesome.org/category/web/)
+* [Lea Verou](http://lea.verou.me/)
 
 ## UX (BR)
 
