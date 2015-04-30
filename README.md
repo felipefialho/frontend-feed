@@ -39,7 +39,7 @@ Contribuições são bem vindas.
 * [Zone Of Front-Enders](http://zofe.com.br/)
 * [Willian Justen](http://willianjusten.com.br/)
 * [Wilson Mendes](http://willmendesneto.github.io/)
-* [SENAI CIMATEC - BA](http://softwaresenai.github.io/)
+* [SENAI CIMATEC - BA](http://softwarecimatec.github.io/)
 * [Suissa - Nomadev](http://nomadev.com.br/)
 * [W3C - Brasil](http://blog.w3c.br/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
