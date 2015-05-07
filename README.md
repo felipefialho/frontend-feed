@@ -26,23 +26,24 @@ Contribuições são bem vindas.
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Maujor](http://www.maujor.com/)
+* [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 * [Miler Medeiros](http://blog.millermedeiros.com/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
+* [SENAI CIMATEC - BA](http://softwarecimatec.github.io/)
 * [SergioLopes.org](http://sergiolopes.org/)
 * [Simples Ideias](http://simplesideias.com.br/)
+* [Suissa - Nomadev](http://nomadev.com.br/)
 * [Tableless](http://tableless.com.br/)
 * [Vinícius Andrade](http://vicnicius.github.io/)
 * [Vitor Britto](http://www.vitorbritto.com.br/blog)
+* [W3C - Brasil](http://blog.w3c.br/)
 * [William Bruno](http://wbruno.com.br/)
+* [Willian Justen](http://willianjusten.com.br/)
+* [Wilson Mendes](http://willmendesneto.github.io/) 
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
-* [Willian Justen](http://willianjusten.com.br/)
-* [Wilson Mendes](http://willmendesneto.github.io/)
-* [SENAI CIMATEC - BA](http://softwarecimatec.github.io/)
-* [Suissa - Nomadev](http://nomadev.com.br/)
-* [W3C - Brasil](http://blog.w3c.br/)
-* [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
+* [W3C - Brasil](http://blog.w3c.br/)  
 
 ## Front-End (EN)
 
@@ -55,28 +56,27 @@ Contribuições são bem vindas.
 * [DailyJS](http://dailyjs.com/)
 * [David Walsh](http://davidwalsh.name/)
 * [DevDocs](http://devdocs.io/)
+* [Flippin Awesome!](http://flippinawesome.org/category/web/)
 * [Hackr.io](http://hackr.io/)
 * [HTML5 Rocks](http://www.html5rocks.com/)
+* [Lea Verou](http://lea.verou.me/)
 * [Lessmilk](http://blog.lessmilk.com/)
 * [Paul Irish](http://paulirish.com/)
 * [Mark Otto](http://markdotto.com/)
 * [Site Point](http://www.sitepoint.com/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
-* [CSS Wizardry](http://csswizardry.com/)
-* [Flippin Awesome!](http://flippinawesome.org/category/web/)
-* [Lea Verou](http://lea.verou.me/)
 
 ## UX (BR)
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
+* [Marciokl Blog](http://marciokl.com/blog/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
 * [UsabiliDoido](http://usabilidoido.com.br/)
-* [Marciokl Blog](http://marciokl.com/blog/)
 
 ## Inspiração
 
-* [http://www.awwwards.com/] Awwwards 
-* [http://line25.com/] Line25
+* [Awwwards](http://www.awwwards.com/) 
+* [Line25](http://line25.com/)
 
 ## License
 
