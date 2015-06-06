@@ -27,7 +27,6 @@ Contribuições são bem vindas.
 * [Maujor](http://www.maujor.com/)
 * [Miler Medeiros](http://blog.millermedeiros.com/)
 * [Nomadev](http://nomadev.com.br/)
-* [Pedro Nauck](http://pedronauck.com/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
 * [SergioLopes.org](http://sergiolopes.org/)
 * [Simples Ideias](http://simplesideias.com.br/)
