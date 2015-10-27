@@ -30,6 +30,7 @@ Contribuições são bem vindas.
 * [Miler Medeiros](http://blog.millermedeiros.com/)
 * [Pedro Nauck](http://pedronauck.com/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
+* [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 * [SENAI CIMATEC - BA](http://softwarecimatec.github.io/)
 * [SergioLopes.org](http://sergiolopes.org/)
 * [Simples Ideias](http://simplesideias.com.br/)
@@ -43,7 +44,8 @@ Contribuições são bem vindas.
 * [Wilson Mendes](http://willmendesneto.github.io/) 
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Zone Of Front-Enders](http://zofe.com.br/)
-* [W3C - Brasil](http://blog.w3c.br/)  
+* [W3C - Brasil](http://blog.w3c.br/)
+* [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 
 ## Front-End (EN)
 
