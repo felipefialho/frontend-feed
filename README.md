@@ -27,7 +27,6 @@ Contribuições são bem vindas.
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Maujor](http://www.maujor.com/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
-* [Pedro Nauck](http://pedronauck.com/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 * [SENAI CIMATEC - BA](http://softwarecimatec.github.io/)
