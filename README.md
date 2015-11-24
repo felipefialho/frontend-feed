@@ -22,7 +22,6 @@ Contribuições são bem vindas.
 * [Jaydson](http://jaydson.org/)
 * [Jean Carlo Emer](http://jcemer.com/)
 * [Ju Gonçalves](http://jugoncalv.es/blog/)
-* [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Maujor](http://www.maujor.com/)
