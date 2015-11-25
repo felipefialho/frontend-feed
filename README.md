@@ -7,7 +7,6 @@ Contribuições são bem vindas.
 
 ## Front-End (BR)
 
-* [Alan Hoffmeister](http://alanhoff.com/)
 * [Anderson Aguiar](http://andersonaguiar.com.br/)
 * [Bernard De Luna](http://bernarddeluna.com/)
 * [Da2k Blog](http://blog.da2k.com.br/)
@@ -21,13 +20,11 @@ Contribuições são bem vindas.
 * [Hugo Bessa](http://www.hugobessa.com.br)
 * [Jaydson](http://jaydson.org/)
 * [Jean Carlo Emer](http://jcemer.com/)
-* [Ju Gonçalves](http://jugoncalv.es/blog/)
-* [Lázaro Alvarenga](http://alvarenga.herokuapp.com/)
+* [Ju Gonçalves](http://jugoncalv.es/blog/)m
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Maujor](http://www.maujor.com/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
-* [Pedro Nauck](http://pedronauck.com/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 * [SENAI CIMATEC - BA](http://softwarecimatec.github.io/)
@@ -72,7 +69,6 @@ Contribuições são bem vindas.
 ## UX (BR)
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
-* [Marciokl Blog](http://marciokl.com/blog/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
 * [UsabiliDoido](http://usabilidoido.com.br/)
 
