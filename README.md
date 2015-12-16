@@ -20,7 +20,7 @@ Contribuições são bem vindas.
 * [Hugo Bessa](http://www.hugobessa.com.br)
 * [Jaydson](http://jaydson.org/)
 * [Jean Carlo Emer](http://jcemer.com/)
-* [Ju Gonçalves](http://jugoncalv.es/blog/)m
+* [Ju Gonçalves](http://jugoncalv.es/blog/)
 * [Leandro Oriente](http://leandrooriente.com/)
 * [Loop Infinito](http://loopinfinito.com.br/)
 * [Maujor](http://www.maujor.com/)
