@@ -72,6 +72,11 @@ Contribuições são bem vindas.
 * [UX.BLOG](http://www.uxdesign.blog.br/)
 * [UsabiliDoido](http://usabilidoido.com.br/)
 
+## UX (EN)
+
+* [Babich](http://babich.biz/)
+* [UX Planet](https://uxplanet.org/)
+
 ## Inspiração
 
 * [Awwwards](http://www.awwwards.com/) 
