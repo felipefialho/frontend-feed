@@ -1,5 +1,3 @@
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23492709/f26ce03a-fee4-11e6-94c1-1c67bf99ea9f.png" width="150"></p>
-
 # Feed 
 
 Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End.
