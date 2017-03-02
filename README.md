@@ -86,6 +86,7 @@ Contribuições são bem vindas.
 
 * [Awwwards](http://www.awwwards.com/) 
 * [Line25](http://line25.com/)
+* [CSS Winner](http://www.csswinner.com/)
 
 ## License
 
