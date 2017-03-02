@@ -1,5 +1,8 @@
 # Feed 
 
+[![license](https://img.shields.io/github/license/LFeh/frontend-feed.svg)](./license.md)
+[![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-feed.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
+
 Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End.
 
 Contribuições são bem vindas.
