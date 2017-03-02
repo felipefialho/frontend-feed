@@ -90,4 +90,4 @@ Contribuições são bem vindas.
 
 ## License
 
-[MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
+[MIT License](http://felipefialho.mit-license.org/) © Felipe Fialho
