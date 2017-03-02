@@ -5,7 +5,7 @@ Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End.
 
 Contribuições são bem vindas.
 
-## Front-End (pt-br) 
+## Front-End (pt-br 🇧🇷) 
 
 * [Anderson Aguiar](http://andersonaguiar.com.br/)
 * [Bernard De Luna](http://bernarddeluna.com/)
@@ -72,7 +72,7 @@ Contribuições são bem vindas.
 * [Tut+](http://tutsplus.com/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 
-## UX (pt-br)
+## UX (pt-br 🇧🇷)
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
@@ -83,7 +83,7 @@ Contribuições são bem vindas.
 * [Babich](http://babich.biz/)
 * [UX Planet](https://uxplanet.org/)
 
-## Inspiração
+## Inspiração (en)
 
 * [Awwwards](http://www.awwwards.com/) 
 * [Line25](http://line25.com/)
