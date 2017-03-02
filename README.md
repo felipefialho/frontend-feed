@@ -1,11 +1,11 @@
-Front-End Feed List (pt-BR)
+Feed 
 =========
 
 Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End.
 
 Contribuições são bem vindas.
 
-## Front-End (BR)
+## Front-End (pt-br) 
 
 * [Anderson Aguiar](http://andersonaguiar.com.br/)
 * [Bernard De Luna](http://bernarddeluna.com/)
@@ -48,7 +48,7 @@ Contribuições são bem vindas.
 * [W3C - Brasil](http://blog.w3c.br/)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 
-## Front-End (EN)
+## Front-End (en)
 
 * [Addy Osmani](http://addyosmani.com/blog/)
 * [A List Apart](http://alistapart.com/)
@@ -72,13 +72,13 @@ Contribuições são bem vindas.
 * [Tut+](http://tutsplus.com/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 
-## UX (BR)
+## UX (pt-br)
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
 * [UsabiliDoido](http://usabilidoido.com.br/)
 
-## UX (EN)
+## UX (en)
 
 * [Babich](http://babich.biz/)
 * [UX Planet](https://uxplanet.org/)
