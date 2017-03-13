@@ -10,7 +10,7 @@ Contribuições são bem vindas.
 ## Front-End (pt-br 🇧🇷) 
 
 * [Anderson Aguiar](http://andersonaguiar.com.br/)
-* [Bernard De Luna](http://bernarddeluna.com/)
+* [Bernard De Luna](https://medium.com/@bernarddeluna)
 * [Cleverson Ferreira](http://cleversonferreira.com/)
 * [Cleyson Leal](http://cleysonlb.github.io/)
 * [Da2k Blog](http://blog.da2k.com.br/)
