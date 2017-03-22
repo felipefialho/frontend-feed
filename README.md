@@ -73,6 +73,8 @@ Contribuições são bem vindas.
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [Tut+](http://tutsplus.com/)
 * [Zeno Rocha](http://zenorocha.com/blog)
+* [Todd Motto](https://toddmotto.com/)
+* [Eric Elliott](https://medium.com/@_ericelliott/latest)
 
 ## UX (pt-br 🇧🇷)
 
