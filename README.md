@@ -1,4 +1,4 @@
-# Feed 
+# Feed
 
 [![license](https://img.shields.io/github/license/LFeh/frontend-feed.svg)](./license.md)
 [![GitHub contributors](https://img.shields.io/github/contributors/LFeh/frontend-feed.svg)](https://github.com/LFeh/frontend-feed/graphs/contributors)
@@ -7,7 +7,7 @@ Abaixo uma lista de blogs e sites úteis para desenvolvedores Front-End.
 
 Contribuições são bem vindas.
 
-## Front-End (pt-br 🇧🇷) 
+## Front-End (pt-br 🇧🇷)
 
 * [Anderson Aguiar](http://andersonaguiar.com.br/)
 * [Bernard De Luna](https://medium.com/@bernarddeluna)
@@ -21,6 +21,7 @@ Contribuições são bem vindas.
 * [Eduardo Matos](http://eduardomatos.me/)
 * [Eric Douglas](http://ericdouglas.github.io/)
 * [Felipe Fialho](http://www.felipefialho.com/)
+* [Flávio Almeida - Cangaceiro Javascript](http://cangaceirojavascript.com.br/)
 * [Front End Brasil](http://www.frontendbrasil.com.br/)
 * [Gabriel Carvalho](http://www.carvalhoweb.com/)
 * [Gabriel Ferreira](http://gabsferreira.com/#open)
@@ -89,7 +90,7 @@ Contribuições são bem vindas.
 
 ## Inspiração (en)
 
-* [Awwwards](http://www.awwwards.com/) 
+* [Awwwards](http://www.awwwards.com/)
 * [Line25](http://line25.com/)
 * [CSS Winner](http://www.csswinner.com/)
 * [One Page Love](https://onepagelove.com/)
