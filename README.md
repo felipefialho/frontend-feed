@@ -79,6 +79,7 @@ Contribuições são bem vindas.
 ## UX (pt-br 🇧🇷)
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
+* [REDE.BZ](http://www.rede.bz/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
 * [UsabiliDoido](http://usabilidoido.com.br/)
 
