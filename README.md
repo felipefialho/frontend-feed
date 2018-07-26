@@ -35,6 +35,7 @@ Contribuições são bem vindas.
 * [Maujor](http://www.maujor.com/)
 * [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
+* [Rocketseat](https://blog.rocketseat.com.br)
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) 
 * [SergioLopes.org](http://sergiolopes.org/)
 * [Simples Ideias](http://simplesideias.com.br/)
