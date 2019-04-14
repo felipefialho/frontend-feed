@@ -9,6 +9,7 @@ Contribuições são bem vindas.
 
 ## Front-End (pt-br 🇧🇷)
 
+* [Alura](https://blog.alura.com.br/)
 * [Anderson Aguiar](http://andersonaguiar.com.br/)
 * [Bernard De Luna](https://medium.com/@bernarddeluna)
 * [Cleverson Ferreira](http://cleversonferreira.com/)
@@ -56,6 +57,7 @@ Contribuições são bem vindas.
 
 * [Addy Osmani](http://addyosmani.com/blog/)
 * [A List Apart](http://alistapart.com/)
+* [Ben Awad](https://www.youtube.com/user/99baddawg/)
 * [Brad Frost Web](http://bradfrostweb.com/)
 * [Codrops](http://tympanus.net/codrops)
 * [CSS Wizardry](http://csswizardry.com/)
