@@ -13,6 +13,7 @@ Contribuições são bem vindas.
 - [Anderson Aguiar](http://andersonaguiar.com.br/)
 - [Bernard De Luna](https://medium.com/@bernarddeluna)
 - [Cleyson Leal](http://cleysonlb.github.io/)
+- [CollabCode](https://medium.com/collabcode/)
 - [Da2k Blog](http://blog.da2k.com.br/)
 - [Diogo Moretti](http://diogo.nu/)
 - [Dorian Neto](http://dorianneto.com.br/)
