@@ -86,11 +86,11 @@ Contribuições são bem vindas.
 ## Inspiração (en)
 
 - [Awwwards](http://www.awwwards.com/)
-- [Line25](http://line25.com/)
 - [CSS Winner](http://www.csswinner.com/)
-- [One Page Love](https://onepagelove.com/)
-- [Dribbble](https://dribbble.com/)
 - [Design Seeds](https://www.design-seeds.com/)
+- [Dribbble](https://dribbble.com/)
+- [Line25](http://line25.com/)
+- [One Page Love](https://onepagelove.com/)
 
 ## License
 
