@@ -45,6 +45,7 @@ Contribuições são bem vindas.
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 - [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 - [Zone Of Front-Enders](http://zofe.com.br/)
+- [Hipsters](https://hipsters.tech/)
 
 ## Blogs - Front-End (en)
 
