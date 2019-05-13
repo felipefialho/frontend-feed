@@ -14,7 +14,6 @@ Contribuições são bem vindas.
 * [Bernard De Luna](https://medium.com/@bernarddeluna)
 * [Cleyson Leal](http://cleysonlb.github.io/)
 * [Da2k Blog](http://blog.da2k.com.br/)
-* [Diéssica Gurskas](https://diessi.ca/blog/)
 * [Diogo Moretti](http://diogo.nu/)
 * [Dorian Neto](http://dorianneto.com.br/)
 * [Eduardo Matos](http://eduardomatos.me/)
@@ -46,11 +45,10 @@ Contribuições são bem vindas.
 * [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 * [Zone Of Front-Enders](http://zofe.com.br/)
 
-## Front-End (en)
+## Blogs - Front-End (en)
 
 * [Addy Osmani](http://addyosmani.com/blog/)
 * [A List Apart](http://alistapart.com/)
-* [Ben Awad](https://www.youtube.com/user/99baddawg/)
 * [Brad Frost Web](http://bradfrostweb.com/)
 * [Codrops](http://tympanus.net/codrops)
 * [CSS Wizardry](http://csswizardry.com/)
@@ -58,11 +56,10 @@ Contribuições são bem vindas.
 * [DailyJS](http://dailyjs.com/)
 * [David Walsh](http://davidwalsh.name/)
 * [DevDocs](http://devdocs.io/)
-* [Flippin Awesome!](http://flippinawesome.org/category/web/)
+* [Diéssica Gurskas](https://diessi.ca/blog/)
+* [Eric Elliott](https://medium.com/@_ericelliott)
 * [Hackr.io](http://hackr.io/)
-* [HTML5 Rocks](http://www.html5rocks.com/)
 * [Lea Verou](http://lea.verou.me/)
-* [Lessmilk](http://blog.lessmilk.com/)
 * [Miler Medeiros](http://blog.millermedeiros.com/)
 * [Paul Irish](http://paulirish.com/)
 * [Mark Otto](http://markdotto.com/)
@@ -71,14 +68,15 @@ Contribuições são bem vindas.
 * [Tut+](http://tutsplus.com/)
 * [Zeno Rocha](http://zenorocha.com/blog)
 * [Todd Motto](https://toddmotto.com/)
-* [Eric Elliott](https://medium.com/@_ericelliott/latest)
+
+## Podcasts / Canais - Front-End (en)
+
+* [Ben Awad](https://www.youtube.com/user/99baddawg/)
 
 ## UX (pt-br 🇧🇷)
 
 * [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
-* [REDE.BZ](http://www.rede.bz/)
 * [UX.BLOG](http://www.uxdesign.blog.br/)
-* [UsabiliDoido](http://usabilidoido.com.br/)
 
 ## UX (en)
 
