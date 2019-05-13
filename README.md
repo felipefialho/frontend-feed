@@ -54,6 +54,7 @@ Contribuições são bem vindas.
 - [Codrops](http://tympanus.net/codrops)
 - [CSS Wizardry](http://csswizardry.com/)
 - [CSS-Tricks](http://css-tricks.com/)
+- [Scotch](https://scotch.io/)
 - [DailyJS](http://dailyjs.com/)
 - [David Walsh](http://davidwalsh.name/)
 - [DevDocs](http://devdocs.io/)
