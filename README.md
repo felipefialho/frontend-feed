@@ -64,6 +64,7 @@ Contribuições são bem vindas.
 - [Miler Medeiros](http://blog.millermedeiros.com/)
 - [Paul Irish](http://paulirish.com/)
 - [Mark Otto](http://markdotto.com/)
+- [Scotch](https://scotch.io/)
 - [Site Point](http://www.sitepoint.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Tut+](http://tutsplus.com/)
