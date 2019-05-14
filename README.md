@@ -12,6 +12,7 @@ Contribuições são bem vindas.
 - [Alura](https://blog.alura.com.br/)
 - [Anderson Aguiar](http://andersonaguiar.com.br/)
 - [Bernard De Luna](https://medium.com/@bernarddeluna)
+- [Caelum](https://blog.caelum.com.br/)
 - [Cleyson Leal](http://cleysonlb.github.io/)
 - [CollabCode](https://medium.com/collabcode/)
 - [Da2k Blog](http://blog.da2k.com.br/)
@@ -25,6 +26,7 @@ Contribuições são bem vindas.
 - [Gabriel Ferreira](http://gabsferreira.com/#open)
 - [Jean Carlo Emer](http://jcemer.com/)
 - [Leandro Oriente](http://leandrooriente.com/)
+- [Mario Souto](https://mariosouto.com/)
 - [Maujor](http://www.maujor.com/)
 - [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 - [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
@@ -42,6 +44,7 @@ Contribuições são bem vindas.
 ## Podcasts / Canais - Front-End (pt-br 🇧🇷)
 
 - [DNE - DevNaEstrada](https://devnaestrada.com.br/)
+- [Hipsters.tech](https://hipsters.tech/)
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 - [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 - [Zone Of Front-Enders](http://zofe.com.br/)
