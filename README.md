@@ -44,6 +44,7 @@ Contribuições são bem vindas.
 
 ## Podcasts / Canais - Front-End (pt-br 🇧🇷)
 
+- [Cabeça de Lab](https://www.cabecadelab.com.br/)
 - [DNE - DevNaEstrada](https://devnaestrada.com.br/)
 - [Hipsters.tech](https://hipsters.tech/)
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
