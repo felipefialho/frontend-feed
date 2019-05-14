@@ -19,6 +19,7 @@ Contribuições são bem vindas.
 - [Diogo Moretti](http://diogo.nu/)
 - [Dorian Neto](http://dorianneto.com.br/)
 - [Eduardo Matos](http://eduardomatos.me/)
+- [Elo7 Tech](https://elo7.dev/)
 - [Eric Douglas](http://ericdouglas.github.io/)
 - [Felipe Fialho - Blog](http://www.felipefialho.com/)
 - [Felipe Fialho - Medium](https://medium.com/@felipefialho)
