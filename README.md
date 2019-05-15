@@ -42,6 +42,7 @@ Contribuições são bem vindas.
 ## Podcasts / Canais - Front-End (pt-br 🇧🇷)
 
 - [DNE - DevNaEstrada](https://devnaestrada.com.br/)
+- [Hipsters Ponto Tech](https://hipsters.tech/)
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
 - [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 - [Zone Of Front-Enders](http://zofe.com.br/)
