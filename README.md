@@ -9,8 +9,8 @@ Contribuições são bem vindas.
 
 ## Blogs - Front-End (pt-br 🇧🇷)
 
+- [AkitaOnRails](https://www.akitaonrails.com/)
 - [Alura](https://blog.alura.com.br/)
-- [Anderson Aguiar](http://andersonaguiar.com.br/)
 - [Bernard De Luna](https://medium.com/@bernarddeluna)
 - [Caelum](https://blog.caelum.com.br/)
 - [Cleyson Leal](http://cleysonlb.github.io/)
@@ -18,7 +18,6 @@ Contribuições são bem vindas.
 - [Da2k Blog](http://blog.da2k.com.br/)
 - [Diogo Moretti](http://diogo.nu/)
 - [Dorian Neto](http://dorianneto.com.br/)
-- [Eduardo Matos](http://eduardomatos.me/)
 - [Elo7 Tech](https://elo7.dev/)
 - [Eric Douglas](http://ericdouglas.github.io/)
 - [Felipe Fialho - Blog](http://www.felipefialho.com/)
@@ -33,22 +32,22 @@ Contribuições são bem vindas.
 - [Raphael Fabeni](http://www.raphaelfabeni.com.br/blog)
 - [Rocketseat](https://blog.rocketseat.com.br)
 - [SergioLopes.org](http://sergiolopes.org/)
-- [Simples Ideias](http://simplesideias.com.br/)
 - [Tableless](http://tableless.com.br/)
 - [Vitor Britto](http://www.vitorbritto.com.br/blog)
 - [W3C - Brasil](http://blog.w3c.br/)
 - [William Bruno](http://wbruno.com.br/)
 - [Willian Justen](http://willianjusten.com.br/)
 - [William Oliveira](https://woliveiras.com.br/)
-- [Wilson Mendes](http://willmendesneto.github.io/)
 
 ## Podcasts / Canais - Front-End (pt-br 🇧🇷)
 
+- [Akitando](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 - [Cabeça de Lab](https://www.cabecadelab.com.br/)
+- [CSS CastShow](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA)
 - [DNE - DevNaEstrada](https://devnaestrada.com.br/)
 - [Hipsters.tech](https://hipsters.tech/)
+- [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
-- [Webschool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
 - [Zone Of Front-Enders](http://zofe.com.br/)
 
 ## Blogs - Front-End (en)
