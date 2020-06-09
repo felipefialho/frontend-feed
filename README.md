@@ -89,6 +89,7 @@ Contribuições são bem vindas.
 - [Front End Happy Hour](https://frontendhappyhour.com/)
 - [React Podcast](https://reactpodcast.simplecast.fm/)
 - [Syntax FM](https://syntax.fm/)
+- [Front End Online Courses](https://classpert.com/front-end)
 
 ## UX (pt-br 🇧🇷)
 
