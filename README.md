@@ -87,9 +87,9 @@ Contribuições são bem vindas.
 - [Ben Awad](https://www.youtube.com/user/99baddawg/)
 - [Egghead.io Developer Chats](https://egghead.io/podcasts)
 - [Front End Happy Hour](https://frontendhappyhour.com/)
+- [Front End Online Courses](https://classpert.com/front-end)
 - [React Podcast](https://reactpodcast.simplecast.fm/)
 - [Syntax FM](https://syntax.fm/)
-- [Front End Online Courses](https://classpert.com/front-end)
 
 ## UX (pt-br 🇧🇷)
 
