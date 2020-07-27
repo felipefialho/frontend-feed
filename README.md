@@ -45,6 +45,7 @@ Contribuições são bem vindas.
 - [Cabeça de Lab](https://www.cabecadelab.com.br/)
 - [CSS CastShow](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA)
 - [DNE - DevNaEstrada](https://devnaestrada.com.br/)
+- [Felipe Fialho](https://youtube.com/FelipeFialhoDev)
 - [Hipsters.tech](https://hipsters.tech/)
 - [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)
 - [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas)
