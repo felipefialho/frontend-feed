@@ -78,6 +78,7 @@ Contribuições são bem vindas.
 - [Scotch](https://scotch.io/)
 - [Site Point](http://www.sitepoint.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
+- [TK](https://www.iamtk.co)
 - [Tobias Ahlin](https://tobiasahlin.com/blog/)
 - [Tut+](http://tutsplus.com/)
 - [Zeno Rocha](http://zenorocha.com/blog)
